@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Willochs Ojigbo - [Github](https://github.com/Willochs316)   
-Shavin Lillkant - [Github](https://github.com/) 
+Tochukwu Nzewi - [Github](https://github.com/tochi26)   
+
 
 
 ## License
